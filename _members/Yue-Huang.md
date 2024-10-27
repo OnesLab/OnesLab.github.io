@@ -1,6 +1,6 @@
 ---
 name: Yue Huang
-image: images/team/yuehuang.jpg
+image: images/team/yuehuang.png
 role: collaborator
 description: PhD Student
 affiliation: University of Notre Dame

@@ -1,6 +1,6 @@
 ---
 name: Chujie Gao
-image: images/team/chujiegao.jpg
+image: images/team/chujiegao.png
 role: undergrad
 description: Undergrad (26fall)
 affiliation: MBZUAI

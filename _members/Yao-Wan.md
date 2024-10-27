@@ -1,6 +1,6 @@
 ---
 name: Yao Wan
-image: images/team/yaowan.jpg
+image: images/team/yaowan.png
 role: pi
 description: Leading PI
 affiliation: HUST
