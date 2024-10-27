@@ -2,7 +2,7 @@
 name: Dongping Chen
 image: images/team/dongpingchen.jpg
 role: Co-lead
-description: Undergrad
+description: Huazhong University of Science and Technology
 aliases:
   - D. Chen
   - D Chen
