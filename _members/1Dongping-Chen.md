@@ -1,6 +1,6 @@
 ---
 name: Dongping Chen
-image: images/team/dongpingchen.jpg
+image: images/team/dongpingchen.png
 role: Co-lead
 description: Co-lead
 affiliation: HUST

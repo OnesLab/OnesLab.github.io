@@ -20,6 +20,26 @@ layout: default
 
 {{ content }}
 
+{% assign team_order = "pi,co-lead,phd,undergrad,collaborator,mascot" | split: "," %}
+{% assign members = site.members | sort: "name" %}
+{% for role in team_order %}
+  {% assign role_members = members | where: "role", role %}
+  {% if role_members.size > 0 %}
+    <h2>{% if role == "pi" %}Principal Investigator
+        {% elsif role == "co-lead" %}Co-Lead
+        {% elsif role == "phd" %}PhD Students
+        {% elsif role == "undergrad" %}Undergraduate Students
+        {% elsif role == "collaborator" %}Collaborators
+        {% elsif role == "mascot" %}Lab Mascot
+        {% endif %}</h2>
+    <div class="team-members">
+    {% for member in role_members %}
+      {% include team-member.html member=member %}
+    {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}
+
 {% assign aliases = page.aliases
   | default: page.name
   | default: page.title
@@ -29,7 +49,7 @@ layout: default
 %}
 
 {% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  research/?search={% for aliases in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
 <p class="center">

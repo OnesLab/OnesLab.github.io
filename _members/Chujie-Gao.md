@@ -3,7 +3,7 @@ name: Chujie Gao
 image: images/team/chujiegao.jpg
 role: undergrad
 description: Undergrad (26fall)
-affiliation: HUST 
+affiliation: MBZUAI
 aliases:
   - C. Gao
   - C Gao
