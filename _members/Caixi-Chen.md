@@ -1,7 +1,7 @@
 ---
 name: Caixi Chen
 image: images/team/caixichen.jpg
-description: Undergrad (25fall)
+description: Undergrad (26fall)
 role: undergrad
 affiliation: HUST
 links:
