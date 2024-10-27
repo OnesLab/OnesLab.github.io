@@ -1,7 +1,8 @@
 ---
 name: Yao Wan
 image: images/team/yaowan.jpg
-role: Leading PI
+role: pi
+description: Leading PI
 affiliation: Huazhong University of Science and Technology
 aliases:
   - Y. Wan
