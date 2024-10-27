@@ -1,7 +1,8 @@
 ---
 name: Dongping Chen
 image: images/team/dongpingchen.jpg
-role: Co-lead Student
+role: Co-lead
+description: Undergrad
 aliases:
   - D. Chen
   - D Chen
