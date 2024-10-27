@@ -2,7 +2,8 @@
 name: Yue Huang
 image: images/team/yuehuang.jpg
 role: collaborator
-description: PhD Student in University of Notre Dame
+description: PhD Student
+affiliation: University of Notre Dame
 aliases:
   - Y. Huang
   - Y Huang
