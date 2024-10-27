@@ -3,7 +3,7 @@ name: Yao Wan
 image: images/team/yaowan.jpg
 role: pi
 description: Leading PI
-affiliation: Huazhong University of Science and Technology
+affiliation: HUST
 aliases:
   - Y. Wan
   - Y Wan
