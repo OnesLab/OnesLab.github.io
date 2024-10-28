@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Projects
 nav:
   order: 2
@@ -23,4 +23,4 @@ Most of our projects are led and conducted by our undergrad members. Check our l
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " style="small" %} -->

@@ -9,11 +9,7 @@ proofer: false
 # site social media and other links
 links:
   email: OnesLab-001@outlook.com
-  orcid: 
-  google-scholar: 
-  github: 
-  twitter: 
-  youtube: 
+
 
 ### jekyll settings
 
