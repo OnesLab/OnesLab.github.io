@@ -1,113 +1,108 @@
-- title: The Best of Both Worlds - Toward an Honest and Helpful Large Language Model
-  subtitle: NeurIPS 2024
-  group: featured
-  image: images/HonestLLM.png
-  link: https://arxiv.org/abs/2406.00380
-  description: Chujie Gao *, Yue Huang *, Dongping Chen *, Siyuan Wu *, Qihui Zhang *, Zhengyan Fu, Yao Wan†, Xiangliang Zhang, Lichao Sun
-  repo: Flossiee/HonestyLLM
+- title: "The Best of Both Worlds - Toward an Honest and Helpful Large Language Model"
+  subtitle: "NeurIPS 2024"
+  group: "featured"
+  image: "images/HonestLLM.png"
+  link: "https://arxiv.org/abs/2406.00380"
+  description: "Chujie Gao *, Yue Huang *, Dongping Chen *, Siyuan Wu *, Qihui Zhang *, Zhengyan Fu, Yao Wan†, Xiangliang Zhang, Lichao Sun"
+  repo: "Flossiee/HonestyLLM"
   tags:
     - publication
     - featured
 
-- title: MLLM-as-a-Judge - Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark
-  subtitle: ICML 2024 Oral
-  group: featured
-  image: images/mllm-judge.jpg
-  link: https://arxiv.org/abs/2402.04788
-  description: Dongping Chen \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*, Huichi Zhou \*, Qihui Zhang \*, Yao Wan†, Pan Zhou†, Lichao Sun
-  repo: Dongping-Chen/MLLM-Judge
+- title: "MLLM-as-a-Judge - Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark"
+  subtitle: "ICML 2024 Oral"
+  group: "featured"
+  image: "images/mllm-judge.jpg"
+  link: "https://arxiv.org/abs/2402.04788"
+  description: "Dongping Chen *, Ruoxi Chen *, Shilin Zhang *, Yinuo Liu *, Yaochen Wang *, Huichi Zhou *, Qihui Zhang *, Yao Wan†, Pan Zhou†, Lichao Sun"
+  repo: "Dongping-Chen/MLLM-Judge"
   tags:
     - publication
     - featured
 
-- title: CodeIP - A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code
-  subtitle: EMNLP 2024 Findings
-  image: images/photo.jpg
-  link: https://arxiv.org/abs/2404.15639
-  description: Batu Guan, Yao Wan, Zhangqian Bi, Zheng Wang, Hongyu Zhang, Pan Zhou, Lichao Sun
-  repo: greenelab/lab-website-template
+- title: "CodeIP - A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code"
+  subtitle: "EMNLP 2024 Findings"
+  image: "images/photo.jpg"
+  link: "https://arxiv.org/abs/2404.15639"
+  description: "Batu Guan, Yao Wan, Zhangqian Bi, Zheng Wang, Hongyu Zhang, Pan Zhou, Lichao Sun"
   tags:
     - publication
     - featured
 
-- title: LLM-as-a-Coauthor - The Challenges of Detecting LLM-Human Mixcase
-  subtitle: NAACL 2024 Findings
-  image: images/mixcase.jpg
-  link: https://arxiv.org/abs/2401.05952
-  description: Qihui Zhang \*, Chujie Gao \*, **Dongping Chen** \*, Yue Huang, Yixin Huang, Zhenyang Sun, Shilin Zhang, Weiye Li, Zhengyan Fu, Yao Wan, Lichao Sun†
-  repo: Dongping-Chen/MixSet
+- title: "LLM-as-a-Coauthor - The Challenges of Detecting LLM-Human Mixcase"
+  subtitle: "NAACL 2024 Findings"
+  image: "images/mixcase.jpg"
+  link: "https://arxiv.org/abs/2401.05952"
+  description: "Qihui Zhang *, Chujie Gao *, Dongping Chen *, Yue Huang, Yixin Huang, Zhenyang Sun, Shilin Zhang, Weiye Li, Zhengyan Fu, Yao Wan, Lichao Sun†"
+  repo: "Dongping-Chen/MixSet"
   tags:
     - publication
 
-- title: Self-Cognition in Large Language Models - An Exploratory Study
-  subtitle: ICMLW 2024
-  image: images/photo.jpg
-  link: https://arxiv.org/abs/2407.01505
-  description: Dongping Chen \*, Jiawen Shi \*, Yao Wan†, Pan Zhou†, Neil Zhenqiang Gong, Lichao Sun
-  repo: greenelab/lab-website-template
+- title: "Self-Cognition in Large Language Models - An Exploratory Study"
+  subtitle: "ICMLW 2024"
+  image: "images/photo.jpg"
+  link: "https://arxiv.org/abs/2407.01505"
+  description: "Dongping Chen *, Jiawen Shi *, Yao Wan†, Pan Zhou†, Neil Zhenqiang Gong, Lichao Sun"
   tags:
     - publication
 
-- title: UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models
-  subtitle: NeurIPSW 2024
-  image: images/photo.jpg
-  link: https://arxiv.org/abs/2406.18966
-  description: Yue Huang \*, Siyuan Wu \*, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan†, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun
-  repo: greenelab/lab-website-template
+- title: "UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models"
+  subtitle: "NeurIPSW 2024"
+  image: "images/photo.jpg"
+  link: "https://arxiv.org/abs/2406.18966"
+  description: "Yue Huang *, Siyuan Wu *, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan†, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun"
+  repo: "HowieHwong/UniGen"
   tags:
     - publication
 
-- title: The Impact of Large Language Models in Academia - from Writing to Speaking
-  subtitle: NeurIPSW 2024
-  image: images/photo.jpg
-  link: https://arxiv.org/pdf/2409.13686
-  description: Mingmeng Geng, Caixi Chen, Yanru Wu, Dongping Chen, Yao Wan, Pan Zhou, Roberto Trotta
-  repo: greenelab/lab-website-template
+- title: "The Impact of Large Language Models in Academia - from Writing to Speaking"
+  subtitle: "NeurIPSW 2024"
+  image: "images/photo.jpg"
+  link: "https://arxiv.org/pdf/2409.13686"
+  description: "Mingmeng Geng, Caixi Chen, Yanru Wu, Dongping Chen, Yao Wan, Pan Zhou, Roberto Trotta"
   tags:
     - publication
 
-- title: Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge
-  subtitle: NeurIPSW 2024
-  image: images/photo.jpg
-  link: https://arxiv.org/pdf/2410.02736
-  description: Jiayi Ye \*, Yanbo Wang \*, Yue Huang \*, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang†
-  repo: greenelab/lab-website-template
+- title: "Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge"
+  subtitle: "NeurIPSW 2024"
+  image: "images/photo.jpg"
+  link: "https://arxiv.org/pdf/2410.02736"
+  description: "Jiayi Ye *, Yanbo Wang *, Yue Huang *, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang†"
   tags:
     - publication
 
-- title: MetaTool Benchmark for Large Language Models - Deciding Whether to Use Tools and Which to Use
-  subtitle: ICLR 2024
-  image: images/photo.jpg
-  link: https://arxiv.org/abs/2310.03128
-  description: Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun
-  repo: greenelab/lab-website-template
+- title: "MetaTool Benchmark for Large Language Models - Deciding Whether to Use Tools and Which to Use"
+  subtitle: "ICLR 2024"
+  image: "images/photo.jpg"
+  link: "https://arxiv.org/abs/2310.03128"
+  description: "Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun"
+  repo: "greenelab/lab-website-template"
   tags:
     - publication
 
-- title: Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment
-  subtitle: Preprint
-  image: images/photo.jpg
-  link: https://interleave-eval.github.io/
-  description: Dongping Chen \*, Ruoxi Chen \*, Shu Pu \*, Zhaoyi Liu \*, Yanru Wu \*, Caixi Chen \*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna†
-  repo: greenelab/lab-website-template
+- title: "Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment"
+  subtitle: "Preprint"
+  image: "images/photo.jpg"
+  link: "https://interleave-eval.github.io/"
+  description: "Dongping Chen *, Ruoxi Chen *, Shu Pu *, Zhaoyi Liu *, Yanru Wu *, Caixi Chen *, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna†"
+  repo: "greenelab/lab-website-template"
   tags:
     - publication
 
-- title: GUI-World - A Dataset for GUI-oriented Multimodal LLM-based Agents
-  subtitle: Preprint
-  image: images/photo.jpg
-  link: https://gui-world.github.io/
-  description: Dongping Chen \*, Yue Huang \*, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan†, Pan Zhou†, Jianfeng Gao, Lichao Sun
-  repo: greenelab/lab-website-template
+- title: "GUI-World - A Dataset for GUI-oriented Multimodal LLM-based Agents"
+  subtitle: "Preprint"
+  image: "images/photo.jpg"
+  link: "https://gui-world.github.io/"
+  description: "Dongping Chen *, Yue Huang *, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan†, Pan Zhou†, Jianfeng Gao, Lichao Sun"
+  repo: "greenelab/lab-website-template"
   tags:
     - publication
 
-- title: ObscurePrompt - Jailbreaking Large Language Models via Obscure Input
-  subtitle: Preprint
-  image: images/photo.jpg
-  link: https://arxiv.org/pdf/2406.13662
-  description: Yue Huang \*, Jingyu Tang \*, Dongping Chen, Bingda Tang, Yao Wan, Lichao Sun, Xiangliang Zhang†
-  repo: greenelab/lab-website-template
+- title: "ObscurePrompt - Jailbreaking Large Language Models via Obscure Input"
+  subtitle: "Preprint"
+  image: "images/photo.jpg"
+  link: "https://arxiv.org/pdf/2406.13662"
+  description: "Yue Huang *, Jingyu Tang *, Dongping Chen, Bingda Tang, Yao Wan, Lichao Sun, Xiangliang Zhang†"
+  repo: "greenelab/lab-website-template"
   tags:
     - publication
-
