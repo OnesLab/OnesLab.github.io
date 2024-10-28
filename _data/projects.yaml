@@ -1,47 +1,41 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: The Best of Both Worlds: Toward an Honest and Helpful Large Language Model
+  subtitle: NeurIPS 2024
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/HonestLLM.png
+  link: https://arxiv.org/abs/2406.00380
+  description: Chujie Gao \*, Qihui Zhang \*, **Dongping Chen** \*, Yue Huang, Siyuan Wu, Zhengyan Fu, Yao Wan†, Xiangliang Zhang, Lichao Sun
+  repo: Flossiee/HonestyLLM
   tags:
-    - resource
+    - publication
+    - featured
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark
+  subtitle: ICML 2024 Oral
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/mllm-judge.jpg
+  link: https://arxiv.org/abs/2402.04788
+  description: **Dongping Chen** \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*, Huichi Zhou \*, Qihui Zhang \*, Yao Wan†, Pan Zhou†, Lichao Sun
+  repo: Dongping-Chen/MLLM-Judge
   tags:
-    - resource
+    - publication
+    - featured
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase
+  subtitle: NAACL 2024 Findings
+  image: images/mixcase.jpg
+  link: https://arxiv.org/abs/2401.05952
+  description: Qihui Zhang \*, Chujie Gao \*, **Dongping Chen** \*, Yue Huang, Yixin Huang, Zhenyang Sun, Shilin Zhang, Weiye Li, Zhengyan Fu, Yao Wan, Lichao Sun†
+  repo: Dongping-Chen/MixSet
   tags:
-    - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Self-Cognition in Large Language Models: An Exploratory Study
+  subtitle: ICMLW 2024
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://arxiv.org/abs/2407.01505
+  description: **Dongping Chen** \*, Jiawen Shi \*, Yao Wan†, Pan Zhou†, Neil Zhenqiang Gong, Lichao Sun
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- 
