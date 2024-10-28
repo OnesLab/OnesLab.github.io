@@ -1,6 +1,6 @@
 ---
 name: Ruoxi-Chen
-image: images/team/ruoxichen.jpg
+image: images/team/ruoxichen.png
 description: PhD Student
 role: phd
 affiliation: Zhejiang University of Technology

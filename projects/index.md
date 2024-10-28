@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Check our latest projects below.
+Most of our projects are led and conducted by our undergrad members. Check our latest projects below.
 
-{% include tags.html tags="publication" %}
+{% include tags.html tags="publication, featured" %}
 
 {% include search-info.html %}
 

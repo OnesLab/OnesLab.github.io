@@ -90,7 +90,7 @@
     - publication
 
 - title: "GUI-World - A Dataset for GUI-oriented Multimodal LLM-based Agents"
-  subtitle: "Preprint"
+  subtitle: "NeurIPSW 2024"
   image: "images/photo.jpg"
   link: "https://gui-world.github.io/"
   description: "Dongping Chen *, Yue Huang *, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan†, Pan Zhou†, Jianfeng Gao, Lichao Sun"
@@ -101,7 +101,7 @@
 - title: "ObscurePrompt - Jailbreaking Large Language Models via Obscure Input"
   subtitle: "Preprint"
   image: "images/photo.jpg"
-  link: "https://arxiv.org/pdf/2406.13662"
+  link: "https://arxiv.org/abs/2406.13662"
   description: "Yue Huang *, Jingyu Tang *, Dongping Chen, Bingda Tang, Yao Wan, Lichao Sun, Xiangliang Zhang†"
   repo: "greenelab/lab-website-template"
   tags:

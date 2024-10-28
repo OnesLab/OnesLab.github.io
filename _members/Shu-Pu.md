@@ -1,6 +1,6 @@
 ---
 name: Shu Pu
-image: images/team/shupu.jpg
+image: images/team/shupu.png
 description: Undergrad (26fall)
 role: undergrad
 affiliation: HUST
