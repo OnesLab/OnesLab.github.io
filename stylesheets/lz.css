@@ -291,6 +291,9 @@ body {
     --y2Point: 300px;
   }
 }
+.video {
+  width: 100%;
+}
 @media screen and (max-width: 600px) {
   .prebody .box {
     padding-left: 30px;
@@ -307,6 +310,12 @@ body {
   }
   .pictures {
     column-count: 1;
+  }
+  #header {
+    padding-right: 10px;
+  }
+  .nav-menu li {
+    padding-left: 15px !important;
   }
   /* body > div > div > div > ul > li {
     width: 36vw !important;
