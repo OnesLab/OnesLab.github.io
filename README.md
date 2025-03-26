@@ -1,5 +1,5 @@
 
-# OnesLabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# OnesLab
 
 Visit **[oneslab.github.io](https://oneslab.github.io)** 🚀
 
